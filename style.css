@@ -81,9 +81,9 @@ z-index: 1000;
 {
     content: '';
     position: absolute;
-    width: 8px;
-    height: 80px;
-    background: crimson;
+    width: 7px;
+    height: 85px;
+    background: purple;
     z-index: 10;
     border-radius: 6px 6px 0 0;
 }
@@ -92,7 +92,7 @@ z-index: 1000;
     content: '';
     position: absolute;
     width: 4px;
-    height: 90px;
+    height: 95px;
     background:#fff;
     z-index: 11;
     border-radius: 6px 6px 0 0;
@@ -101,7 +101,7 @@ z-index: 1000;
 {
     content: '';
     position: absolute;
-    width: 2px;
+    width: 3px;
     height: 150px;
     background:#fff;
     z-index: 12;
